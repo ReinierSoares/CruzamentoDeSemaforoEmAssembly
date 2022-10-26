@@ -1,0 +1,32 @@
+<ASSEMBLER_INFO>
+ <VERSION>2.1.42</VERSION>
+ <DEVICE>ATmega328</DEVICE>
+ <WORKING_DIR>G:\Outros computadores\Meu laptop\Facul\3 periodo\Arquitetura de Sistemas Digitais\3 Etapa\Projeto Semaforo</WORKING_DIR>
+ <INCLUDE_PATH>
+  <DIR>D:\Atmel Studio\AvrAssembler2\Appnotes</DIR>
+ </INCLUDE_PATH>
+ <SOURCE_FILE>G:\Outros computadores\Meu laptop\Facul\3 periodo\Arquitetura de Sistemas Digitais\3 Etapa\Projeto Semaforo\Semaforo.asm</SOURCE_FILE>
+ <INCLUDED_FILES>
+  <FILE>D:\Atmel Studio\AvrAssembler2\Appnotes\M328DEF.INC</FILE>
+ </INCLUDED_FILES>
+ <OBJECT_FILES>
+  <FILE>G:\Outros computadores\Meu laptop\Facul\3 periodo\Arquitetura de Sistemas Digitais\3 Etapa\Projeto Semaforo\Semaforo.obj</FILE>
+ </OBJECT_FILES>
+ <HEX_FILES>
+  <FILE>G:\Outros computadores\Meu laptop\Facul\3 periodo\Arquitetura de Sistemas Digitais\3 Etapa\Projeto Semaforo\Semaforo.hex</FILE>
+ </HEX_FILES>
+ <OUTPUT_FILES>
+  <FILE>G:\Outros computadores\Meu laptop\Facul\3 periodo\Arquitetura de Sistemas Digitais\3 Etapa\Projeto Semaforo\Semaforo.map</FILE>
+ </OUTPUT_FILES>
+ <LABELS>
+  <L1><FILE>G:\Outros computadores\Meu laptop\Facul\3 periodo\Arquitetura de Sistemas Digitais\3 Etapa\Projeto Semaforo\Semaforo.asm</FILE><LINE>32</LINE></L1>
+  <DELAY_15s><FILE>G:\Outros computadores\Meu laptop\Facul\3 periodo\Arquitetura de Sistemas Digitais\3 Etapa\Projeto Semaforo\Semaforo.asm</FILE><LINE>81</LINE></DELAY_15s>
+  <PISCA_VER2><FILE>G:\Outros computadores\Meu laptop\Facul\3 periodo\Arquitetura de Sistemas Digitais\3 Etapa\Projeto Semaforo\Semaforo.asm</FILE><LINE>111</LINE></PISCA_VER2>
+  <DELAY_5s><FILE>G:\Outros computadores\Meu laptop\Facul\3 periodo\Arquitetura de Sistemas Digitais\3 Etapa\Projeto Semaforo\Semaforo.asm</FILE><LINE>88</LINE></DELAY_5s>
+  <PISCA_VER1><FILE>G:\Outros computadores\Meu laptop\Facul\3 periodo\Arquitetura de Sistemas Digitais\3 Etapa\Projeto Semaforo\Semaforo.asm</FILE><LINE>96</LINE></PISCA_VER1>
+  <DELAY_1s><FILE>G:\Outros computadores\Meu laptop\Facul\3 periodo\Arquitetura de Sistemas Digitais\3 Etapa\Projeto Semaforo\Semaforo.asm</FILE><LINE>62</LINE></DELAY_1s>
+  <delay1><FILE>G:\Outros computadores\Meu laptop\Facul\3 periodo\Arquitetura de Sistemas Digitais\3 Etapa\Projeto Semaforo\Semaforo.asm</FILE><LINE>64</LINE></delay1>
+  <delay2><FILE>G:\Outros computadores\Meu laptop\Facul\3 periodo\Arquitetura de Sistemas Digitais\3 Etapa\Projeto Semaforo\Semaforo.asm</FILE><LINE>66</LINE></delay2>
+  <delay3><FILE>G:\Outros computadores\Meu laptop\Facul\3 periodo\Arquitetura de Sistemas Digitais\3 Etapa\Projeto Semaforo\Semaforo.asm</FILE><LINE>68</LINE></delay3>
+ </LABELS>
+</ASSEMBLER_INFO>
